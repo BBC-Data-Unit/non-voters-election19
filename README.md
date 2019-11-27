@@ -19,7 +19,7 @@ We counted the total turnout, meaning that spoiled and rejected papers were coun
 * Electoral Commission: [Results and turnout at the 2015 UK general election](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/uk-general-elections/results-and-turnout-2015-uk-general-election)
 * Electoral Commission: [Results and turnout at the 2017 UK general election](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/uk-general-elections/results-and-turnout-2017-uk-general-election)
 * Runnymede Trust: [Ethnic Minorities at the 2017 British General Election (PDF)](https://www.runnymedetrust.org/uploads/2017%20Election%20Briefing.pdf)
-
+* Gov.uk voter registration dashboard: [Applications by age group](https://www.gov.uk/performance/register-to-vote/registrations-by-age-group)
 
 ## Quotes and interviews
 
