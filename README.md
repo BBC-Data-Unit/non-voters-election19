@@ -29,7 +29,7 @@ We counted the total turnout, meaning that spoiled and rejected papers were coun
 
 ## Visualisation
 
-![](https://raw.githubusercontent.com/BBC-Data-Unit/non-voters-election19/master/registrationethnicity-nc%20(2).png)
+![](https://github.com/BBC-Data-Unit/non-voters-election19/blob/master/nonvotersmostbars-nc.png)
 
 * Choropleth map: constitencies where non-voters outnumber the majority of the local MP
 * Table: Constituencies with the smallest majorities after the 2017 election
